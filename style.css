@@ -1,0 +1,147 @@
+*{
+    margin: 0; 
+    padding: 0;
+    box-sizing: border-box;
+}
+
+header {
+    background-color: #222;
+    color: #fff;
+    padding: 30px;
+    text-align: center;
+    text-shadow: 2px 2px #000;
+  }
+
+  header h1 {
+    font-size: 4rem;
+    font-weight: 900;
+    margin-bottom: 10px;
+  }
+
+.integrantes{
+    font-size: 20px;
+}
+
+.inicio{
+    display: flex;
+    justify-content: center;
+    background-color: rgb(135, 52, 52);
+    padding-top: 50px;
+    padding-bottom: 50px;
+}
+
+.cultura2{
+    padding-left: 50px;
+    font-size: 25px;
+    font-style: bold;
+    color: white;
+    background: rgb(135, 52, 52);
+    padding-bottom: 50px;
+}
+
+.cultura h2{
+    font-size: 40px;
+    font-style: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    background: rgb(135, 52, 52);
+    padding-bottom: 10px;
+}
+
+.comidas2{
+    padding-left: 50px;
+    font-size: 25px;
+    font-style: bold;
+    color: white;
+    display: flex;
+    justify-content: left;
+    padding-bottom: 50px;
+}
+
+.comidas h1{
+    font-size: 40px;
+    padding-top: 50px;
+    font-style: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.imgchurras {
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 31.5%;
+}
+
+.comidas{
+    background-color: #222;
+}
+
+.bandeira{
+    background-color: rgb(135, 52, 52);
+}
+
+.mascote{
+    background-color: #222;
+}
+
+.bandeira h1{
+    font-size: 40px;
+    padding-top: 50px;
+    font-style: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.mascote h1{
+    font-size: 40px;
+    padding-top: 50px;
+    font-style: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.mascoteimg {
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 33%;
+}
+
+.cartografia h1{
+    font-size: 40px;
+    padding-top: 50px;
+    font-style: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 10px;
+}
+
+.cartografiaimg{
+    display: flex;
+    justify-content: center;
+    padding-top: 25px;
+    padding-bottom: 25px;
+    padding-left: 35%;
+}
+
+.fim{
+    background-color: #222;
+    font-size: 20px;
+    padding-top: 50px;
+    font-style: bold;
+    color: white;
+    display: flex;
+    justify-content: center;
+    padding-bottom: 50px;
+}
